@@ -1,0 +1,3 @@
+USAGE: savepid PIDFILE COMMAND [ARGS...]
+
+savepid is is a dead simple sh wrapper for any executable. It will save the pid of that executable to a file. This is terribly useful for running servers inside of screen, and programmatically killing them.
